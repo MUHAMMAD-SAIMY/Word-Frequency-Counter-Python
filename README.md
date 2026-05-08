@@ -1,3 +1,4 @@
+Just trying out stuff tbh...
 # Word Frequency Counter
 
 Reads a .txt file and counts how many times each word appears.
